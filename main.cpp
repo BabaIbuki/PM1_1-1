@@ -4,7 +4,7 @@ int main() {
 
 	printf("Hello Git!!!!!!!!!!!");
 
-	printf("‚È‚ñ‚¾‚±‚¢‚Â");
+	printf("githubˆÓ–¡‚í‚©‚ç‚ñ");
 
 	return 0;
 }
